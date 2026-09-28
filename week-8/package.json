@@ -1,0 +1,17 @@
+{
+  "name": "week-8",
+  "version": "1.0.0",
+  "description": "Stateful Applications",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0"
+  }
+}
